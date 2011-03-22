@@ -19,6 +19,8 @@ namespace Trolopoloy
         public static int JailSquare = 10;
         public static int GoSquare = 0;
 
+        
+
         public enum TraderID
         {
             Banker,
@@ -30,6 +32,8 @@ namespace Trolopoloy
 
         public Board()
         {
+            Console.WriteLine("JUST A TEST FOR GITHUB!!!");
+
             squares = new Square[SquaresOnBoard];
 
             // Place the corner squares (GO, Jail etc)
