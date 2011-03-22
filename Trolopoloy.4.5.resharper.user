@@ -1,0 +1,159 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Trader.cs" caret="2193" fromTop="32" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:PlayerPiece.cs" caret="648" fromTop="25" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Roll.cs" caret="214" fromTop="11" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Dice.cs" caret="495" fromTop="20" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Player.cs" caret="2132" fromTop="90" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Game1.cs" caret="284" fromTop="5" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:CardPile.cs" caret="367" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Trader.cs" caret="1334" fromTop="23" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Trader.cs" caret="423" fromTop="15" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Trader.cs" caret="1202" fromTop="16" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Trader.cs" caret="1770" fromTop="15" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Trader.cs" caret="642" fromTop="0" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Trader.cs" caret="1475" fromTop="13" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Trader.cs" caret="189" fromTop="9" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Trader.cs" caret="276" fromTop="13" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Trader.cs" caret="1088" fromTop="15" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Trader.cs" caret="759" fromTop="3" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Trader.cs" caret="2288" fromTop="50" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Player.cs" caret="2333" fromTop="21" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Player.cs" caret="478" fromTop="13" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Player.cs" caret="838" fromTop="30" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Player.cs" caret="401" fromTop="11" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Player.cs" caret="1387" fromTop="33" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Trader.cs" caret="2155" fromTop="43" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Player.cs" caret="1088" fromTop="27" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Player.cs" caret="1655" fromTop="38" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Player.cs" caret="2209" fromTop="20" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:PlayerPiece.cs" caret="518" fromTop="18" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:PlayerPiece.cs" caret="330" fromTop="12" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:PlayerPiece.cs" caret="648" fromTop="25" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Player.cs" caret="1780" fromTop="14" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Player.cs" caret="88" fromTop="3" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Player.cs" caret="2132" fromTop="45" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:Game1.cs" caret="293" fromTop="5" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:CardPile.cs" caret="432" fromTop="15" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:CardPile.cs" caret="159" fromTop="9" />
+      <File id="7CA5096B-B59A-4717-B3CF-AC63F2339866/f:CardPile.cs" caret="354" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="int" priority="16" />
+      <Item value="public" priority="21" />
+      <Item value="Dice" priority="1" />
+      <Item value="dice1" priority="7" />
+      <Item value="Random" priority="4" />
+      <Item value="dice2" priority="6" />
+      <Item value="new" priority="4" />
+      <Item value="Console" priority="0" />
+      <Item value="return" priority="9" />
+      <Item value="rand" priority="2" />
+      <Item value="true" priority="2" />
+      <Item value="else" priority="1" />
+      <Item value="false" priority="5" />
+      <Item value="if" priority="13" />
+      <Item value="isDouble" priority="0" />
+      <Item value="move" priority="2" />
+      <Item value="Roll" priority="6" />
+      <Item value="private" priority="9" />
+      <Item value="bool" priority="3" />
+      <Item value="this" priority="9" />
+      <Item value="dub" priority="2" />
+      <Item value="Program" priority="0" />
+      <Item value="newRoll" priority="0" />
+      <Item value="List" priority="7" />
+      <Item value="pastThreeRolls" priority="5" />
+      <Item value="void" priority="8" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="2" />
+      <Item value="pastRolls" priority="1" />
+      <Item value="Length" priority="1" />
+      <Item value="Trader" priority="3" />
+      <Item value="String" priority="3" />
+      <Item value="balance" priority="2" />
+      <Item value="value" priority="1" />
+      <Item value="amount" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="name" priority="4" />
+      <Item value="properties" priority="3" />
+      <Item value="destination" priority="0" />
+      <Item value="property" priority="0" />
+      <Item value="ID" priority="2" />
+      <Item value="base" priority="1" />
+      <Item value="getOutOfJailFreeCards" priority="2" />
+      <Item value="inJail" priority="1" />
+      <Item value="Player" priority="0" />
+      <Item value="theDice" priority="0" />
+      <Item value="roll" priority="3" />
+      <Item value="doublesInARow" priority="2" />
+      <Item value="InJail" priority="3" />
+      <Item value="positionOnBoard" priority="6" />
+      <Item value="Move" priority="0" />
+      <Item value="squaresToMove" priority="0" />
+      <Item value="square" priority="0" />
+      <Item value="id" priority="0" />
+      <Item value="piece" priority="0" />
+      <Item value="PlayerPiece" priority="0" />
+      <Item value="animationFrames" priority="0" />
+      <Item value="startFrame" priority="0" />
+      <Item value="CardPile" priority="3" />
+      <Item value="cards" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Trolopoloy.Roll">
+      <Item value="move" priority="0" />
+      <Item value="dub" priority="0" />
+      <Item value="Double" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Trolopoloy.Trader">
+      <Item value="Balance" priority="1" />
+      <Item value="AddProperty" priority="0" />
+      <Item value="ID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Remove" priority="1" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Trolopoloy.Player">
+      <Item value="TransferMoney" priority="0" />
+      <Item value="piece" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Trolopoloy.Dice">
+      <Item value="Roll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Trolopoloy.CardPile">
+      <Item value="name" priority="0" />
+      <Item value="cards" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

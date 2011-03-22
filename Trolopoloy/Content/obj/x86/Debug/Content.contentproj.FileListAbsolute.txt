@@ -1,0 +1,3 @@
+i:\Trolopoloy\Trolopoloy\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\40028005\Desktop\Trolopoloy\Trolopoloy\Trolopoloy\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Monopoly\Trolopoloy\Trolopoloy\Content\obj\x86\Debug\ResolveAssemblyReference.cache

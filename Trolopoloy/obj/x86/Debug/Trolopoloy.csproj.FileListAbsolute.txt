@@ -1,0 +1,15 @@
+i:\Trolopoloy\Trolopoloy\bin\x86\Debug\Trolopoloy.exe
+i:\Trolopoloy\Trolopoloy\bin\x86\Debug\Trolopoloy.pdb
+i:\Trolopoloy\Trolopoloy\obj\x86\Debug\ResolveAssemblyReference.cache
+i:\Trolopoloy\Trolopoloy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+i:\Trolopoloy\Trolopoloy\obj\x86\Debug\Trolopoloy.exe
+i:\Trolopoloy\Trolopoloy\obj\x86\Debug\Trolopoloy.pdb
+C:\Documents and Settings\40028005\Desktop\Trolopoloy\Trolopoloy\Trolopoloy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\40028005\Desktop\Trolopoloy\Trolopoloy\Trolopoloy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\40028005\Desktop\Trolopoloy\Trolopoloy\Trolopoloy\obj\x86\Debug\Trolopoloy.exe
+I:\Monopoly\Trolopoloy\Trolopoloy\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Monopoly\Trolopoloy\Trolopoloy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Monopoly\Trolopoloy\Trolopoloy\obj\x86\Debug\Trolopoloy.exe
+I:\Monopoly\Trolopoloy\Trolopoloy\bin\x86\Debug\Trolopoloy.exe
+I:\Monopoly\Trolopoloy\Trolopoloy\bin\x86\Debug\Trolopoloy.pdb
+I:\Monopoly\Trolopoloy\Trolopoloy\obj\x86\Debug\Trolopoloy.pdb
