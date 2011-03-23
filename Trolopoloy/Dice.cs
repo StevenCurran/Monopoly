@@ -18,8 +18,6 @@ namespace Trolopoloy
             int dice2 = rand.Next(1, 6);
             Roll newRoll = new Roll(dice1 + dice2, dice1 == dice2 ? true : false);
 
-            Console.WriteLine("git test 2");
-
             return newRoll;
 
             

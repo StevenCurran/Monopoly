@@ -32,8 +32,7 @@ namespace Trolopoloy
 
         public Board()
         {
-            Console.WriteLine("JUST A TEST FOR GITHUB!!!");
-
+           
             squares = new Square[SquaresOnBoard];
 
             // Place the corner squares (GO, Jail etc)
